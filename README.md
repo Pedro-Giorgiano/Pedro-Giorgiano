@@ -1,4 +1,3 @@
-### Olá!! Eu sou o Pedro ✌️
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 920px; margin: auto;">
   <img style="flex: 2; min-width: 600px;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Giorgiano&theme=tokyonight">
