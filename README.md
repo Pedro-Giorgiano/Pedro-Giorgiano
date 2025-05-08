@@ -1,28 +1,37 @@
 ### Olá!! Eu sou o Pedro ✌️
 
-- 🔭 Hoje eu curso engenharia de software
-- 🌱 Estudando javaScript
-<div align="center">
-  <a href="https://github.com/Pedro-Giorgiano">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Giorgiano&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Giorgiano&layout=compact&langs_count=7&theme=radical"/>
-    
-  ![Snake animation](https://github.com/Pedro-Giorgiano/Pedro-Giorgiano/blob/output/github-contribution-grid-snake.svg)
-</div>
-  
-</div>
-<div style="display: inline_block"><br>
-  
-  
-  
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 920px; margin: auto;">
+  <img style="flex: 2; min-width: 600px;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Giorgiano&theme=tokyonight">
+  <img style="flex: 1; min-width: 300px;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pedro-Giorgiano&theme=tokyonight"/>
+  <img style="flex: 1; min-width: 300px;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pedro-Giorgiano&theme=tokyonight"/>
 </div>
 
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/Pedro-Giorgiano/Pedro-Giorgiano/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+##
+
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=Pedro-Giorgiano&row=1&column=6&theme=tokyonight&margin-w=15&margin-h=15"/>
+  </div>
+ 
+
+
+ 
+##
+
+
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,py,java,bash,javascript,typescript,css,html,nodejs,docker,flutter,figma,github,linux,postman,mongodb,postgres,supabase,mysql,linux,kafka,jenkins,linkedin&perline=12" />
+</a>
+  <br />
+
+  </div>
+  
 ##
 
 <div> 
